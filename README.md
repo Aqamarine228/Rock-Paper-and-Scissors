@@ -1,4 +1,11 @@
 # Rock-Paper-and-Scissors
+
+## Instalation
+1. For this program you need installed [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html) library 
+
+
+
+
 That is my first GitHub project, and it might work like:
 1. At first user input his name
 2. Program checks if user name is in rating.txt(rating.csv in second version) file 
