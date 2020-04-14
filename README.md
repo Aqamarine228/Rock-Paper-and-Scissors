@@ -1,12 +1,12 @@
 # Rock-Paper-and-Scissors
 
-## Instalation
-1. For this program you need installed [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html) library 
+## Instalation and starting
+1. At first you must install [Python](https://www.python.org/downloads/)
+2. For this program you need installed [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html) library 
+3. To start program you need to open folder with program file("cd" command) in [cmd](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/) tab, than you need to type "python file_name.py"
 
 
-
-
-That is my first GitHub project, and it might work like:
+## How program works
 1. At first user input his name
 2. Program checks if user name is in rating.txt(rating.csv in second version) file 
 if not it creates line with user name + score(0)
