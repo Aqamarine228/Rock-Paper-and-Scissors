@@ -4,6 +4,7 @@
 1. At first you must install [Python](https://www.python.org/downloads/)
 2. For this program you need installed [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html) library 
 3. To start program you need to open folder with program file("[cd](https://en.wikipedia.org/wiki/Cd_(command))" command) in [cmd](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/) tab, than you need to type "python file_name.py"
+* For old version you need rating.txt file in same directory as program code
 
 
 ## How program works
